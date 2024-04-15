@@ -107,3 +107,4 @@ C:\Users\user\Desktop\Entity Framwork\Home Work 12.04.2024\WebApi\bin\Debug\net8
 C:\Users\user\Desktop\Entity Framwork\Home Work 12.04.2024\WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\user\Desktop\Entity Framwork\Home Work 12.04.2024\WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\user\Desktop\Entity Framwork\Home Work 12.04.2024\WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Entity Framwork\Home Work 12.04.2024\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
